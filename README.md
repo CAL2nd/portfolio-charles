@@ -5,6 +5,8 @@ This is my Portfolio project
  Learn about HTML / CSS / Bootstrap through creation. Also, when they are looking for a job, customize it to create your own portfolio.
 [Visit Demo Website Hosted by Heroku](https://portfolio-charles-lofton.herokuapp.com/)
 
+![Screenshot 2022-06-28 185340](https://user-images.githubusercontent.com/105087912/176317595-c69e99d5-8eab-4f47-9b7d-a7b486d51842.png)
+
 
 ## Tech used
 * HTML
